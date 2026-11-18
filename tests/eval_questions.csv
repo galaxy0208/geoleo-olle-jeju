@@ -1,0 +1,31 @@
+text,intent,category,persona,minutes,emds
+한림읍 어르신 걸어서 약국 갈 수 있는 비율,reach,pharmacy,senior,15,한림읍
+아이랑 10분 안에 소아과 못 가는 동네 3곳,rank,pediatric,child_guardian,10,
+애월읍에 보건진료소가 새로 생기면 어디가 좋아,simulate,public_health,adult,15,애월읍
+연동에서 걸어서 버스정류장까지 몇 분,nearest,bus_stop,adult,15,연동
+노형동 치과 접근성,reach,dental,adult,15,노형동
+휠체어 타시는 할머니 기준 의원 가기 힘든 동네,rank,clinic,senior_aid,15,
+구좌읍 치매안심센터 가까운 곳,nearest,dementia,adult,15,구좌읍
+도서관 걸어서 20분 안에 갈 수 있는 비율,reach,library,adult,20,
+2019년이랑 비교해서 약국 줄어든 동네,compare_year,pharmacy,adult,15,
+표선면 어르신 5분 안에 약국,reach,pharmacy,senior,5,표선면
+유모차 끌고 소아청소년과 갈 수 있는 동네,reach,pediatric,child_guardian,15,
+종합병원 걸어서 갈 수 있는 곳 제일 부족한 동네 5곳,rank,hospital,adult,15,
+보건소 접근 취약한 동네,rank,public_health,adult,15,
+성산읍 노인 의원 접근성,reach,clinic,senior,15,성산읍
+대정읍에 약국 하나 생기면,simulate,pharmacy,adult,15,대정읍
+중문동 가까운 약국 어디야,nearest,pharmacy,adult,15,중문동
+2021년 대비 의원 접근 변화,compare_year,clinic,adult,15,
+아라동 아기랑 도서관,reach,library,child_guardian,15,아라동
+조천읍 버스 정류소 10분,reach,bus_stop,adult,10,조천읍
+치과 가기 어려운 동네 순위,rank,dental,adult,15,
+남원읍 지팡이 쓰는 어르신 보건진료소,reach,public_health,senior_aid,15,남원읍
+한경면에 보건진료소가 들어서면 효과,simulate,public_health,adult,15,한경면
+오늘 날씨 알려줘,unsupported,,adult,15,
+제주시 맛집 추천해줘,unsupported,,adult,15,
+우도면 약국,reach,pharmacy,adult,15,우도면
+일도1동 어르신 정류장 5분,reach,bus_stop,senior,5,일도1동
+삼양동 의원 가까운 곳,nearest,clinic,adult,15,삼양동
+요양병원 걸어서 갈 수 있는 동네,reach,hospital,adult,15,
+서귀포 동홍동 약국 접근성,reach,pharmacy,adult,15,동홍동
+2020년보다 소아과 접근 나빠진 동네,compare_year,pediatric,adult,15,

@@ -1,0 +1,92 @@
+{
+ "_paging": {
+  "kind": "page",
+  "page": "number",
+  "size": "limit",
+  "first": 1
+ },
+ "pharmacy": {
+  "status": 200,
+  "totCnt": 599,
+  "rows": 599,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "hospital": {
+  "status": 200,
+  "totCnt": 1423,
+  "rows": 1423,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "library": {
+  "status": 200,
+  "totCnt": 22,
+  "rows": 22,
+  "pageSize": 10,
+  "note": "ok"
+ },
+ "dementia_center": {
+  "status": 200,
+  "totCnt": 68,
+  "rows": 68,
+  "pageSize": 50,
+  "note": "ok"
+ },
+ "bus_station": {
+  "status": 200,
+  "totCnt": 4352,
+  "rows": 4352,
+  "pageSize": 50,
+  "note": "ok"
+ },
+ "bus_route": {
+  "status": 200,
+  "totCnt": 745,
+  "rows": 745,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "bus_station_users": {
+  "status": 200,
+  "totCnt": 6472,
+  "rows": 6472,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "floating_pop": {
+  "status": 200,
+  "totCnt": 4816,
+  "rows": 4816,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "accident_spot": {
+  "status": 200,
+  "totCnt": 42,
+  "rows": 42,
+  "pageSize": 10,
+  "note": "ok"
+ },
+ "foreign_long_stay": {
+  "status": 200,
+  "totCnt": 4651,
+  "rows": 4651,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "museum": {
+  "status": 200,
+  "totCnt": 129,
+  "rows": 129,
+  "pageSize": 100,
+  "note": "ok"
+ },
+ "small_library": {
+  "status": 200,
+  "totCnt": 142,
+  "rows": 142,
+  "pageSize": 100,
+  "note": "ok"
+ }
+}

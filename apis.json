@@ -1,0 +1,83 @@
+{
+ "pharmacy": {
+  "id": 861,
+  "name": "약국 정보",
+  "key": "taD8a8t1atabta1Dtt1tta6bt16ab16a",
+  "params": {}
+ },
+ "hospital": {
+  "id": 859,
+  "name": "병·의원 정보",
+  "key": "tbb1D1a1559at91ababaata1abtba58a",
+  "params": {}
+ },
+ "library": {
+  "id": 888,
+  "name": "제주 공공 도서관 정보",
+  "key": "aa9D99t7D8aD799aa9tt8aD8Dttt8aD8",
+  "params": {}
+ },
+ "dementia_center": {
+  "id": 890,
+  "name": "제주 치매 안심 센터 위치 정보",
+  "key": "at899998bt797a8098tttD79at97bDb7",
+  "params": {}
+ },
+ "bus_station": {
+  "id": 612,
+  "name": "버스 정류소 기본 정보",
+  "key": "DD11ab6a6t11D16baaa1a2tD26ata161",
+  "params": {}
+ },
+ "bus_route": {
+  "id": 611,
+  "name": "버스 노선 기본 정보",
+  "key": "aaatD6D1atta1611at1t6a1b6at1b11a",
+  "params": {}
+ },
+ "bus_station_users": {
+  "id": 613,
+  "name": "일일 정류소별 버스 이용자 정보",
+  "key": "1b1ta1a1ba6t6a1ttt3bD6b1tb1t1D3t",
+  "params": {
+   "startDate": "20251001",
+   "endDate": "20251001"
+  }
+ },
+ "floating_pop": {
+  "id": 583,
+  "name": "읍면동 단위 내국인 유동인구",
+  "key": "Daaa1t3at3tt8a8DD3t55538t35Dab1t",
+  "params": {
+   "startDate": "20251001",
+   "endDate": "20251007"
+  }
+ },
+ "accident_spot": {
+  "id": 863,
+  "name": "교통사고 다발지역 정보",
+  "key": "36333aD6tba8aa1D6D1aaab8D1aa6ba8",
+  "params": {}
+ },
+ "foreign_long_stay": {
+  "id": 590,
+  "name": "읍면동 단위 외국인 장기체류 유동인구",
+  "key": "1aabbD515b0t9ataDD055551D5b0t1t1",
+  "params": {
+   "startDate": "20251001",
+   "endDate": "20251007"
+  }
+ },
+ "museum": {
+  "id": 812,
+  "name": "박물관 및 미술관 위치 정보",
+  "key": "at2ta1D1aaa811bata88Dt1D22b1t1bt",
+  "params": {}
+ },
+ "small_library": {
+  "id": 889,
+  "name": "제주 새마을문고 정보",
+  "key": "9a88t9988a9t9t98atb98tD9979aa789",
+  "params": {}
+ }
+}

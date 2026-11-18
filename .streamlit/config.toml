@@ -1,0 +1,25 @@
+[client]
+toolbarMode = "viewer"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
+
+[server]
+enableStaticServing = true
+
+[theme]
+base = "light"
+primaryColor = "#0F6E56"
+backgroundColor = "#FAFAF7"
+secondaryBackgroundColor = "#F1EFE8"
+textColor = "#2C2C2A"
+borderColor = "#D3D1C7"
+baseRadius = "large"
+font = "Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif"
+headingFont = "Pretendard, 'Noto Sans KR', 'Malgun Gothic', sans-serif"
+
+[[theme.fontFaces]]
+family = "Pretendard"
+url = "app/static/PretendardVariable.woff2"
+weight = "100 900"
